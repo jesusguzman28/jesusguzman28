@@ -37,10 +37,8 @@ Ideólogo y desarrollador del sitio de **[Liberalismo Comunal](https://liberalis
 
 ### 📊 Estadísticas
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jesusguzman28&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusguzman28&layout=compact&hide_border=true" alt="Lenguajes más usados" />
-</p>
+![Seguidores](https://img.shields.io/github/followers/jesusguzman28?style=flat-square&logo=github&label=Seguidores)
+![Repositorios públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jesusguzman28&label=Repositorios&query=%24.public_repos&style=flat-square&logo=github)
 
 ### 🔗 Conecta conmigo
 
