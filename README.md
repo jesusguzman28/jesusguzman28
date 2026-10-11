@@ -9,6 +9,7 @@ Cofundador y líder de producto/tecnología en **TiniBot**, docente universitari
 
 ### 🚀 En qué estoy trabajando
 
+- **[BIT-ONE](https://bitone.pe/)** — mi fábrica de software: sistemas web y apps móviles a medida para empresas de todo el Perú.
 - **TiniBot** — robot educativo para que niños de zonas rurales del Perú aprendan a programar de forma física, moviendo un robot a partir de bloques de código. *Ingeniería 100% peruana hecha en los Andes.*
 - **MindBlock** — plataforma de programación por bloques, complemento de TiniBot Alfa.
 - **ApuraY** — app de delivery lanzada en Coracora: pedidos de comida, abarrotes, regalos y servicios, llevados por motorizados locales. Modelo validado en una ciudad de ~10 000 habitantes antes de escalar.
@@ -49,7 +50,10 @@ Ideólogo y desarrollador del sitio de **[Liberalismo Comunal](https://liberalis
 
 ### 🔗 Conecta conmigo
 
+[![Sitio personal](https://img.shields.io/badge/jesusguzman28.github.io-1F2F8F?style=flat-square&logo=googlechrome&logoColor=white)](https://jesusguzman28.github.io/)
+[![BIT-ONE](https://img.shields.io/badge/BIT--ONE-software%20a%20medida-1A2044?style=flat-square)](https://bitone.pe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusguzman01/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pjguzmanr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jesusguzman6261/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jesusguzman264)
 [![Website](https://img.shields.io/badge/liberalismocomunal.org-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://liberalismocomunal.org)
